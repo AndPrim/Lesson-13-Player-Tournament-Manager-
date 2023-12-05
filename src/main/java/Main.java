@@ -1,7 +1,9 @@
 import ru.netology.playerManager.Player;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
-        Player service = new Player();
+        Player serv = new Player();
     }
 }
